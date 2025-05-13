@@ -18,5 +18,5 @@
 ---
 
 ### 📫 Cómo contactarme
-- 💼 [LinkedIn](www.linkedin.com/in/kevin-rios-4413442a9)
+- 💼 LinkedIn: www.linkedin.com/in/kevin-rios-4413442a9
 - ✉️ Email: kevindrp21@gmail.com
