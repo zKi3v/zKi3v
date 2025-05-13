@@ -1,7 +1,7 @@
 # 👋 ¡Hola mundo!, Soy zKi3v!
-
-![5880ef672981142ff41ded2c0c25782c](https://github.com/user-attachments/assets/3fab4f0b-0b93-4013-8030-549f239a900a)
-
+<center>
+<img src=>
+</center>
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Apasionado por el desarrollo web, el software y la ciberseguridad  
 🔍 Explorando nuevas tecnologías y desafíos como Hack The Box y CTFs  
