@@ -1,12 +1,15 @@
 # 👋 ¡Hola mundo!, Soy zKi3v!
+
 <p align="center">
   <img src=https://github.com/zKi3v/zKi3v/blob/main/HelloWorld.gif>
 </p>
+
+<p align="center">
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Apasionado por el desarrollo web, el software y la ciberseguridad  
 🔍 Explorando nuevas tecnologías y desafíos como Hack The Box y CTFs  
-🚀 En constante aprendizaje y crecimiento profesional
-
+🚀 Aprendiendo cada día
+</p>
 ---
 
 ### 🛠 Tecnologías que utilizo
