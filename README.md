@@ -1,19 +1,12 @@
 # 👋 ¡Hola mundo!, Soy zKi3v!
 
-# 👨‍💻 Kevin Rios
-
-💻 Full Stack Developer | ☁️ Cloud | 🤖 Machine Learning  
-🚀 Apasionado por construir soluciones escalables y eficientes
-
 <p align="center">
   <img src=https://github.com/zKi3v/zKi3v/blob/main/HelloWorld.gif>
 </p>
 
 <p align="center">
-🎓 Estudiante de Ingeniería en Sistemas  
-💻 Apasionado por el desarrollo de software multiplataforma, y la ciberseguridad  
-🔍 Explorando nuevas tecnologías y desafíos como Hack The Box y CTFs  
-🚀 Aprendiendo cada día
+💻 Full Stack Developer | ☁️ Cloud | 🤖 Machine Learning  
+🚀 Apasionado por construir soluciones escalables y eficientes
 </p>
 
 ---
