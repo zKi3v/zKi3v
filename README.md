@@ -68,3 +68,7 @@
 ### 📫 Cómo contactarme
 - 💼 LinkedIn: www.linkedin.com/in/kevin-rios-4413442a9
 - ✉️ Email: zki3v.only.contactme@gmail.com
+
+## MI PORTFOLIO
+- www.zki3v.com (principal)
+- proyectos.zki3v.com (vista completa de proyectos)
