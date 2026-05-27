@@ -10,10 +10,8 @@
 </p>
 
 ## MI PORTFOLIO
-
-<p align="center">
-www.zki3v.com (principal) | proyectos.zki3v.com (vista completa de proyectos)
-</p>
+- www.zki3v.com (principal)
+- proyectos.zki3v.com (vista completa de proyectos)
 
 ---
 
